@@ -2,7 +2,7 @@
 - 👀 I’m interested in web dev/ web 3 and a bit of ml/ai
 - 🌱 I’m currently learning mern stack development and NLP techniques
 - 💞️ I’m looking to collaborate on good fullstack projects
-- 📫 Contact me through my x handle @howwhywhenwhatt
+- 📫 Contact me through my x handle @17hustle
 - 😄 Pronouns: he/him
 
 <!---
